@@ -18,7 +18,7 @@ h3 {font-family: "relaway bolt"; color: #dbc2a4; margin-left: 20px;}
 
 
 .Expérience h3 {color: black;}
-.Expérience{background-color: white; display: block; margin-left: 300px; margin-top: -610px; border-right: 2px solid black;}
+.Expérience{background-color: white; display: block; margin-left: 300px; margin-top: -730px; border-right: 5px solid black;}
 .Expérience h2{background-color: #dbc2a4; margin-left: 20px; margin-right: 20px;}
 .Expérience p{display: flex; margin-left: 20px; margin-right: auto;}
 
@@ -40,7 +40,7 @@ ul{font-family: "Raleway bolt"; color: #dbc2a4;}
 
 .Expérience ul{color: black;}
 .Expérience p{color: black;}
-.Expérience h3:hover{border-left: 2px solid #6d071a;}
+.Expérience h3:hover{border-right: 10px solid #6d071a;}
 .Expérience h2{border-left: 4px solid rgb(78, 22, 21);}
 
 footer img {width: 40px; height: 40px;}
