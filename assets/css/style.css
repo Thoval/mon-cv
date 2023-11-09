@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2? family= Lato:ital,wght@0,100;1,700 & family= Raleway:wght@100 & display=swap');
+
+
+
+@font-face {
+    font-family: "Raleway";
+    src: url(../fonts/Raleway-Italic-VariableFont_wght.woff);
+    src: url(../fonts/Raleway-VariableFont_wght.woff);
+}
+body h1 {font-family: "raleway bolt"; color: #dbc2a4;}
+h2 {font-family:"lato";}
+h2{background-color: #dbc2a4; margin-left: 0px; margin-right: 900px;}
+
+p {font-family: "Raleway bolt"; color: #dbc2a4; margin-left: 0px; margin-right: 900px; margin-top: -10px;}
+
+h3 {font-family: "relaway bolt"; color: #dbc2a4; margin-left: 20px;}
+.identité {background-color:#2c1d27 ; color: #dbc2a4;}
+
+
+.Expérience h3 {color: black;}
+.Expérience{background-color: white; display: block; margin-left: 300px; margin-top: -610px; border-right: 2px solid black;}
+.Expérience h2{background-color: #dbc2a4; margin-left: 20px; margin-right: 20px;}
+.Expérience p{display: flex; margin-left: 20px; margin-right: auto;}
+
+body {background-color: rgb(78, 22, 21); display: block; margin-left:auto; margin-right: auto; width: 1160px;}
+
+.entête img{width: 150px; height: 150px; border-radius: 50%; box-shadow: 0px 0px 10px red; cursor: zoom-in;}
+
+.entête div img{display: block; margin: auto; margin-top: 50px; margin-bottom: 50px;}
+
+
+.identité {display: flex; margin-top: 50px; margin-bottom: -20px;}
+.adresse {display: flex; margin-left: 20px;}
+.email {display: flex; margin-left: 140px;}
+.tel {display: flex; margin-left: 350px;}
+
+.propos{display: flex; flex-direction: column;}
+
+ul{font-family: "Raleway bolt"; color: #dbc2a4;}
+
+.Expérience ul{color: black;}
+.Expérience p{color: black;}
+.Expérience h3:hover{border-left: 2px solid #6d071a;}
+.Expérience h2{border-left: 4px solid rgb(78, 22, 21);}
+
+footer img {width: 40px; height: 40px;}
+footer {display: flex; justify-content: center;}
+
+
+
